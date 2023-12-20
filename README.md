@@ -1,42 +1,42 @@
 <div align="center">
 
-  <h2 align="center">Aplicativo Taskbuddy - Amigo de tarefa</h2>
+<b>Aplicativo Taskbuddy - Amigo de tarefa</b>
 
-  Taskbuddy é um aplicativo de tarefas totalmente responsivo, <br />responsivo para todos os dispositivos, construído usando HTML, CSS e JavaScript.
+  <p>Taskbuddy é um aplicativo de tarefas totalmente responsivo para todos os dispositivos, construído usando HTML, CSS e JavaScript.</p>
 
   <a href="https://apptaskbuddy.netlify.app/"><strong>Demonstração ao vivo</strong></a>
 </div><br>
 
 
-#### Capturas de tela de demonstração
+<b>Capturas de tela de demonstração:</b>
 
 ![Demonstração da área de trabalho do Taskbuddy](./readme-images/desktop.png "Demonstração de área de trabalho")
 
-#### Pré-requisitos
+<b>Pré-requisitos:</b>
 
-Antes de começar, certifique-se de atender aos seguintes requisitos:
+<p>Antes de começar, certifique-se de atender aos seguintes requisitos:</p>
 
 [Git](https://git-scm.com/downloads "Download Git") deve ser instalado em seu sistema operacional.
 
-#### Execute localmente
+<b>Execute localmente:</b>
 
-Para executar o **Taskbuddy** localmente, execute este comando em seu git bash:
+<p>Para executar o **Taskbuddy** localmente, execute este comando em seu git bash:</p>
 
-Linux e macOS:
+<b>Linux e macOS:</b>
 
 ```bash
 sudo git clone https://github.com/codewithsadee/taskbuddy.git
 ```
 
-Windows:
+<b>Windows:</b>
 
 ```bash
 git clone https://github.com/codewithsadee/taskbuddy.git
 ```
 
-#### Contato
+<b>Contato:</b>
 
-Se você quiser entrar em contato comigo, sinta-se a vontade.  
+<p>Se você quiser entrar em contato comigo, sinta-se a vontade.</p> 
 
 <a href="https://linkedin.com/in/danie1portela" target="_blank">
   <img align="center" src="https://img.shields.io/badge/ - LinkedIn-05122A?style=flat&logo=linkedin" alt="linkedin"/>
