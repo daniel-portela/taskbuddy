@@ -21,7 +21,7 @@
 
 Antes de começar, certifique-se de atender aos seguintes requisitos:
 
-* [Git](https://git-scm.com/downloads "Download Git") deve ser instalado em seu sistema operacional.
+[Git](https://git-scm.com/downloads "Download Git") deve ser instalado em seu sistema operacional.
 
 ### Execute localmente
 
