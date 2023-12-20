@@ -25,7 +25,7 @@
 <b>Linux e macOS:</b>
 
 ```bash
-sudo git clone https://github.com/codewithsadee/taskbuddy.git
+sudo git clone https://github.com/daniel-portela/taskbuddy.git
 ```
 
 <b>Windows:</b>
