@@ -48,7 +48,7 @@ git clone https://github.com/codewithsadee/taskbuddy.git
  <img align="center" src="https://img.shields.io/badge/-Whatsapp-05122A?style=flat&logo=whatsapp" alt="whatsapp"/>
 </a>
 
-#### Licença
+<b>Licença</b>
 
-Este projeto é **de uso gratuito** e não contém nenhuma licença.
+<p>Este projeto é **de uso gratuito** e não contém nenhuma licença.</p>
 
