@@ -50,5 +50,5 @@ git clone https://github.com/codewithsadee/taskbuddy.git
 
 <br><b>Licença</b>
 
-<p>Este projeto é **de uso gratuito** e não contém nenhuma licença.</p>
+<p>Este projeto é de uso gratuito e não contém nenhuma licença.</p>
 
