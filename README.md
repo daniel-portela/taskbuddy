@@ -1,19 +1,7 @@
 <div align="center">
-  
-  ![GitHub tamanho do repositório](https://img.shields.io/github/repo-size/daniel-portela/taskbuddy)
 
-<a href="https://linkedin.com/in/danie1portela" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/ - LinkedIn-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
- <a href="https://instagram.com/danielfront_" target="_blank">
- <img align="center" src="https://img.shields.io/badge/ - Instagram-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
- <a href="https://wa.me/77999109489" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-Whatsapp-05122A?style=flat&logo=whatsapp" alt="whatsapp"/>
-</a>
 
-  <br />
-  <br />
+
 
   <h2 align="center">Aplicativo Taskbuddy - Amigo de tarefa</h2>
 
@@ -53,8 +41,19 @@ git clone https://github.com/codewithsadee/taskbuddy.git
 
 ### Contato
 
-Se você quiser entrar em contato comigo, pode entrar em contato comigo no meu [site pessoal](https://danielengineer.com/).
+Se você quiser entrar em contato comigo, sinta-se a vontade.  
+
+<a href="https://linkedin.com/in/danie1portela" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/ - LinkedIn-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+ <a href="https://instagram.com/danielfront_" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/ - Instagram-05122A?style=flat&logo=instagram" alt="instagram"/>
+</a>
+ <a href="https://wa.me/77999109489" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-Whatsapp-05122A?style=flat&logo=whatsapp" alt="whatsapp"/>
+</a>
 
 ### Licença
 
 Este projeto é **de uso gratuito** e não contém nenhuma licença.
+
