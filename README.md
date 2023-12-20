@@ -31,7 +31,7 @@ sudo git clone https://github.com/daniel-portela/taskbuddy.git
 <b>Windows:</b>
 
 ```bash
-git clone https://github.com/codewithsadee/taskbuddy.git
+git clone https://github.com/daniel-portela/taskbuddy.git
 ```
 
 <b>Contato:</b>
