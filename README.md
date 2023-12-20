@@ -20,7 +20,7 @@
 
 <b>Execute localmente:</b>
 
-<p>Para executar o **Taskbuddy** localmente, execute este comando em seu git bash:</p>
+<p>Para executar o <b>Taskbuddy</b> localmente, execute este comando em seu git bash:</p>
 
 <b>Linux e macOS:</b>
 
