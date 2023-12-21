@@ -1,6 +1,6 @@
 <div align="center">
 
-<b>Aplicativo Taskbuddy - Amigo de tarefa</b>
+<b>Aplicativo Taskbuddy - Amigo de tarefa (em testes)</b>
 
   <p>Taskbuddy é um aplicativo de tarefas totalmente responsivo para todos os dispositivos, construído usando HTML, CSS e JavaScript.</p>
 
