@@ -25,13 +25,19 @@
 <b>Linux e macOS:</b>
 
 ```bash
-sudo git clone https://github.com/daniel-portela/taskbuddy.git
+git clone https://github.com/daniel-portela/taskbuddy.git
 ```
 
 <b>Windows:</b>
 
 ```bash
 git clone https://github.com/daniel-portela/taskbuddy.git
+```
+
+Depois de clonar o repositório, acesse o projeto com o seguinte comando:
+
+```bash
+cd nome-do-repositorio
 ```
 
 <b>Contato:</b>
