@@ -16,21 +16,22 @@
 ### Capturas de tela de demonstração
 
 ![Demonstração da área de trabalho do Taskbuddy](./readme-images/desktop.png "Demonstração de área de trabalho")
+![Demonstração da área de trabalho do Taskbuddy](./readme-images/desktop-2.png "Demonstração de área de trabalho")
 
-### Pré-requisitos
+<b>Pré-requisitos</b>
 
 Antes de começar, certifique-se de atender aos seguintes requisitos:
 
-* [Git](https://git-scm.com/downloads "Download Git") deve ser instalado em seu sistema operacional.
+[Git](https://git-scm.com/downloads "Download Git") deve ser instalado em seu sistema operacional.
 
-### Execute localmente
+Execute localmente
 
-Para executar o **Taskbuddy** localmente, execute este comando em seu git bash:
+Para executar o <b>Taskbuddy</b> localmente, execute este comando em seu git bash:
 
 Linux e macOS:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/taskbuddy.git
+git clone https://github.com/codewithsadee/taskbuddy.git
 ```
 
 Windows:
@@ -38,22 +39,27 @@ Windows:
 ```bash
 git clone https://github.com/codewithsadee/taskbuddy.git
 ```
+Depois de clonar o repositório, acesse o projeto com o seguinte comando:
 
-### Contato
+```bash
+cd nome-do-repositorio
+```
+
+<b>Contato</b>
 
 Se você quiser entrar em contato comigo, sinta-se a vontade.  
 
-<a href="https://linkedin.com/in/danie1portela" target="_blank">
+<a href="https://linkedin.com/in/danielengineer" target="_blank">
   <img align="center" src="https://img.shields.io/badge/ - LinkedIn-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
- <a href="https://instagram.com/danielfront_" target="_blank">
+ <a href="https://instagram.com/daniel.engineer" target="_blank">
  <img align="center" src="https://img.shields.io/badge/ - Instagram-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
  <a href="https://wa.me/77999109489" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-Whatsapp-05122A?style=flat&logo=whatsapp" alt="whatsapp"/>
 </a>
 
-### Licença
+<br><b>Licença</b>
 
-Este projeto é **de uso gratuito** e não contém nenhuma licença.
+Este projeto é de uso gratuito e não contém nenhuma licença.
 

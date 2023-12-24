@@ -109,6 +109,7 @@ html {
 }
 
 body {
+  margin-top: 60px;
   background-image: var(--theme-bg);
   color: var(--eerie-black);
   font-size: 1.6rem;
@@ -140,7 +141,7 @@ body.loaded {
 .container,
 .main,
 .app-box {
-  height: 100%;
+  height: 90%;
 }
 
 .h1,
@@ -157,6 +158,7 @@ body.loaded {
 }
 
 .app-box {
+  overflow: hidden;
   position: relative;
   z-index: 1;
 }
@@ -310,6 +312,7 @@ body.loaded {
 }
 
 .task-list {
+  overflow: hidden;
   margin-block: 20px;
   max-height: calc(100vh - 200px);
   padding-inline-end: 4px;
@@ -427,7 +430,7 @@ body.loaded {
 
 .task-item .item-action-btn {
   margin-inline-start: auto;
-  color: var(--dim-gray);
+  color: red;
   opacity: 0;
 }
 
@@ -451,7 +454,7 @@ body.loaded {
 }
 
 .input-field {
-  background-color: var(--white_70);
+  background-color: rgba(177, 203, 255, 0.195);
   color: var(--eerie-black);
   font-size: var(--fs-4);
   padding: 14px;
@@ -461,7 +464,7 @@ body.loaded {
 }
 
 .input-field::placeholder {
-  color: var(--dim-gray);
+  color: white;
   opacity: 0;
 }
 
@@ -470,7 +473,8 @@ body.loaded {
 }
 
 .input-field:is(:hover, :focus) {
-  background-color: var(--white_80);
+  background-color: rgba(140, 178, 255, 0.284);
+  color: aliceblue;
   outline: none;
 }
 
@@ -482,22 +486,25 @@ body.loaded {
 }
 
 .input-text {
+  color: aliceblue;
   left: 50px;
   font-size: var(--fs-4);
   pointer-events: none;
 }
 
 .input-icon {
+  color: aliceblue;
   left: 14px;
   font-size: 26px;
 }
 
 .input-field:is(:not(:placeholder-shown), :focus)~.input-text {
+  color: aliceblue;
   opacity: 0;
 }
 
 .input-icon .circle-icon {
-  color: var(--davys-gray);
+  color: rgb(255, 255, 255);
   --ionicon-stroke-width: 40px;
 }
 

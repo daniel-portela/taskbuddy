@@ -18,21 +18,21 @@ const taskCompleteSound = new Audio("./assets/sounds/task-complete.mp3");
 const getWeekDayName = function (dayNumber) {
   switch (dayNumber) {
     case 0:
-      return "Segunda";
-    case 1:
-      return "Terça";
-    case 2:
-      return "Quarta";
-    case 3:
-      return "Quinta";
-    case 4:
-      return "Sexta";
-    case 5:
-      return "Sábado";
-    case 6:
       return "Domingo";
+    case 1:
+      return "Segunda";
+    case 2:
+      return "Terça";
+    case 3:
+      return "Quarta";
+    case 4:
+      return "Quinta";
+    case 5:
+      return "Sexta";
+    case 6:
+      return "Sábado";
     default:
-      return "Não é um dia válido";
+      return "Fim de semana chegou!";
   }
 }
 const getMonthName = function (monthNumber) {
@@ -121,7 +121,7 @@ const taskInputValidation = function (taskIsValid) {
     taskRemover = document.querySelectorAll("[data-task-remove]");
 
   } else {
-    console.log("Please write something!");
+    console.log("Por favor, escreva alguma coisa!");
   }
 }
 
