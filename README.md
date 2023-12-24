@@ -2,9 +2,9 @@
 
 <b>Aplicativo Taskbuddy - Amigo de tarefa (em testes)</b>
 
-  <p>Taskbuddy é um aplicativo de tarefas totalmente responsivo para todos os dispositivos, construído usando HTML, CSS e JavaScript.</p>
+<p>Taskbuddy é um aplicativo de tarefas totalmente responsivo para todos os dispositivos, construído usando HTML, CSS e JavaScript.</p>
 
-  <a href="https://apptaskbuddy.netlify.app/"><strong>Demonstração ao vivo</strong></a>
+<a href="https://apptaskbuddy.netlify.app/"><strong>Demonstração ao vivo</strong></a>
 </div><br>
 
 
@@ -13,34 +13,24 @@
 ![Demonstração da área de trabalho do Taskbuddy](./readme-images/desktop.png "Demonstração de área de trabalho")
 ![Demonstração da área de trabalho do Taskbuddy](./readme-images/desktop-2.png "Demonstração de área de trabalho")
 
-<<<<<<< HEAD
-<b>Pré-requisitos</b>
-=======
 <b>Pré-requisitos:</b>
->>>>>>> 2869a6c22471cba790d2bf057f79e397e5e36c37
 
 <p>Antes de começar, certifique-se de atender aos seguintes requisitos:</p>
 
 [Git](https://git-scm.com/downloads "Download Git") deve ser instalado em seu sistema operacional.
 
-<<<<<<< HEAD
 Execute localmente
 
 Para executar o <b>Taskbuddy</b> localmente, execute este comando em seu git bash:
-=======
+
 <b>Execute localmente:</b>
 
 <p>Para executar o <b>Taskbuddy</b> localmente, execute este comando em seu git bash:</p>
->>>>>>> 2869a6c22471cba790d2bf057f79e397e5e36c37
 
 <b>Linux e macOS:</b>
 
 ```bash
-<<<<<<< HEAD
-git clone https://github.com/codewithsadee/taskbuddy.git
-=======
 git clone https://github.com/daniel-portela/taskbuddy.git
->>>>>>> 2869a6c22471cba790d2bf057f79e397e5e36c37
 ```
 
 <b>Windows:</b>
@@ -50,27 +40,14 @@ git clone https://github.com/daniel-portela/taskbuddy.git
 ```
 Depois de clonar o repositório, acesse o projeto com o seguinte comando:
 
-<<<<<<< HEAD
 ```bash
 cd nome-do-repositorio
 ```
 
-<b>Contato</b>
-=======
-Depois de clonar o repositório, acesse o projeto com o seguinte comando:
->>>>>>> 2869a6c22471cba790d2bf057f79e397e5e36c37
-
-```bash
-cd nome-do-repositorio
-```
-
-<<<<<<< HEAD
-=======
 <b>Contato:</b>
 
 <p>Se você quiser entrar em contato comigo, sinta-se a vontade.</p> 
 
->>>>>>> 2869a6c22471cba790d2bf057f79e397e5e36c37
 <a href="https://linkedin.com/in/danielengineer" target="_blank">
   <img align="center" src="https://img.shields.io/badge/ - LinkedIn-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
@@ -81,11 +58,7 @@ cd nome-do-repositorio
  <img align="center" src="https://img.shields.io/badge/-Whatsapp-05122A?style=flat&logo=whatsapp" alt="whatsapp"/>
 </a>
 
-<br><b>Licença</b>
+<br><b>Licença:</b>
 
-<<<<<<< HEAD
-Este projeto é de uso gratuito e não contém nenhuma licença.
-=======
 <p>Este projeto é de uso gratuito e não contém nenhuma licença.</p>
->>>>>>> 2869a6c22471cba790d2bf057f79e397e5e36c37
 
