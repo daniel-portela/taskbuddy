@@ -76,7 +76,3 @@ O Taskbuddy foi projetado com foco na responsividade e usabilidade, garantindo u
  <img align="center" src="https://img.shields.io/badge/-behance-05122A?style=flat&logo=behance" alt="behance"/>
 </a>
 
-<br><b>Licença:</b>
-
-<p>Este projeto é de uso gratuito e não contém nenhuma licença.</p>
-
