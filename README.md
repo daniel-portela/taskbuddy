@@ -72,6 +72,9 @@ O Taskbuddy foi projetado com foco na responsividade e usabilidade, garantindo u
  <a href="https://wa.me/77999109489" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-Whatsapp-05122A?style=flat&logo=whatsapp" alt="whatsapp"/>
 </a>
+<a href="https://www.behance.net/danielengineer_" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-behance-05122A?style=flat&logo=behance" alt="behance"/>
+</a>
 
 <br><b>Licença:</b>
 
