@@ -11,13 +11,13 @@ Projeto Taskbuddy - Amigo de Tarefas
 <a href="https://apptaskbuddy.netlify.app/"><strong>Demonstração ao vivo</strong></a>
 </div>
 
-![alt text](preview.jpg)
+![preview](https://github.com/daniel-portela/taskbuddy/assets/110783805/171a9439-6496-45d9-93d0-1e50d04ec871)
 
-![alt text](preview-exemplo2.png)
+![preview-exemplo](https://github.com/daniel-portela/taskbuddy/assets/110783805/24e02abd-73e3-4109-b341-209817d5f9f5)
 
-![alt text](preview-exemplo.jpg)
+![preview-exemplo2](https://github.com/daniel-portela/taskbuddy/assets/110783805/138c0911-b2a7-4c57-b9c5-2ea5fbd9bb2f)
 
-![alt text](preview-responsive.jpg)
+![preview-responsive](https://github.com/daniel-portela/taskbuddy/assets/110783805/97d77dc2-f708-47e1-89ef-3d6662e2d937)
 
 Tecnologias utilizadas:
 
@@ -72,8 +72,7 @@ O Taskbuddy foi projetado com foco na responsividade e usabilidade, garantindo u
  <a href="https://wa.me/77999109489" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-Whatsapp-05122A?style=flat&logo=whatsapp" alt="whatsapp"/>
 </a>
-
-<br><b>Licença:</b>
-
-<p>Este projeto é de uso gratuito e não contém nenhuma licença.</p>
+<a href="https://www.behance.net/danielengineer_" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-behance-05122A?style=flat&logo=behance" alt="behance"/>
+</a>
 
