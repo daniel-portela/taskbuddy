@@ -59,20 +59,23 @@ Responsividade e usabilidade
 O Taskbuddy foi projetado com foco na responsividade e usabilidade, garantindo uma experiência consistente em dispositivos de diferentes tamanhos. A interface é intuitiva e fácil de usar, permitindo que os usuários gerenciem suas tarefas de forma eficiente, independentemente do dispositivo utilizado.
 
 
+<b>Licença</b>
+
+Este projeto está sob [LICENSE](LICENSE), o que significa que você não tem permissão para usar, modificar e distribuir o código conforme desejar, desde que mantenha o aviso de direitos autorais e a licença. Contudo, se você encontrar bugs, tiver sugestões de melhorias ou quiser contribuir de alguma forma, ficarei feliz em receber seu feedback.
+
 <b>Contato:</b>
 
-<p>Se você quiser entrar em contato comigo, sinta-se a vontade.</p> 
+Se você tiver alguma dúvida, sugestão ou interesse em colaborar, não hesite em me contatar.
 
-<a href="https://linkedin.com/in/danielengineer" target="_blank">
+Email: <a href="mailto:danielportela.ti@gmail.com"> danielportela.ti@gmail.com</a> 
+
+<a href="https://linkedin.com/in/danielportelati" target="_blank">
   <img align="center" src="https://img.shields.io/badge/ - LinkedIn-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
- <a href="https://instagram.com/danielengineer_" target="_blank">
+ <a href="https://instagram.com/danielportelati" target="_blank">
  <img align="center" src="https://img.shields.io/badge/ - Instagram-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
- <a href="https://wa.me/77999109489" target="_blank">
+ <a href="https://wa.me/77999408643" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-Whatsapp-05122A?style=flat&logo=whatsapp" alt="whatsapp"/>
-</a>
-<a href="https://www.behance.net/danielengineer_" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-behance-05122A?style=flat&logo=behance" alt="behance"/>
 </a>
 
