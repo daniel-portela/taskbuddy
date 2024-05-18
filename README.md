@@ -2,7 +2,7 @@
 
 <a href="https://apptaskbuddy.netlify.app/">Projeto Taskbuddy</a> - Amigo de Tarefas
 
-<p>Taskbuddy é um aplicativo de tarefas totalmente tem como principal característica o registro e data de criação e das últimas modificações realizadas dentro do projeto. Também é personalizar sua experiência escolhendo entre diferentes modos de cores para se adequar ao seu estilo. Além de ter uma interface fácil de usar para organizar suas tarefas de maneira eficiente.</p>
+<p>Taskbuddy é um aplicativo de tarefas totalmente tem como principal característica o registro e data de criação e das últimas modificações realizadas dentro do projeto. Também é possível personalizar sua experiência escolhendo entre diferentes modos de cores para se adequar ao seu estilo. 
 </div>
 
 ![preview](https://github.com/daniel-portela/taskbuddy/assets/110783805/171a9439-6496-45d9-93d0-1e50d04ec871)
