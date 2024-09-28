@@ -7,7 +7,7 @@
 
 ![preview](https://github.com/daniel-portela/taskbuddy/assets/110783805/171a9439-6496-45d9-93d0-1e50d04ec871)
 
-![preview-exemplo](https://github.com/daniel-portela/taskbuddy/assets/110783805/24e02abd-73e3-4109-b341-209817d5f9f5)
+![Info do projeto](readme-images/preview-info.png)
 
 ![preview-exemplo2](https://github.com/daniel-portela/taskbuddy/assets/110783805/138c0911-b2a7-4c57-b9c5-2ea5fbd9bb2f)
 
